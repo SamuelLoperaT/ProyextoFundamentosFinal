@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=ColeccionPublicaciones
+comment1.params=
+comment1.target=ColeccionPublicaciones()
+comment1.text=\r\n\ constructor\ de\ la\ clase,\ asignacion\ de\ memoria\ para\ el\ ArrayList\ publicaciones\r\n
+comment2.params=p
+comment2.target=boolean\ agregarPublicacion(Publicacion)
+comment2.text=\r\n\ agrega\ una\ publicacion\ a\ la\ coleccion\ de\ publicaciones\r\n
+comment3.params=usuario
+comment3.target=java.util.ArrayList\ getPublicacionesDeUnUsuario(java.lang.String)
+comment3.text=\r\n\ retorna\ un\ arraylist\ con\ las\ publicaciones\ de\ un\ usuario\ dado\r\n\ \r\n\ @param\ usuario,\ usuario\ del\ que\ se\ requieren\ las\ publicaciones\r\n
+numComments=4
